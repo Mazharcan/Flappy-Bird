@@ -1,1 +1,1 @@
-# Flappy Bird, Unity 2D oyun deposu. 
+# Flappy Bird, Unity 2D game repository.
